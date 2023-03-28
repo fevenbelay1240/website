@@ -1,0 +1,23 @@
+:root {
+    --bg-light: #F0ECE2;
+    --bg-light-100: #d6c2ac;
+    --bg-dark: #603601;
+    --bg-med: #CFB784;
+    --text-light: #F5EDED;
+    --text-dark: #310B0B;
+}
+body {
+    background-color: var(--bg-dark);
+  /*  margin: 0;
+    padding: 0;*/
+    line-height: 1.5;
+    font-size: 15px;
+    font-family: 'Poppins' sans-serif;
+}
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
